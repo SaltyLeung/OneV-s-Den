@@ -1,9 +1,9 @@
 # Basic
 title: Salty World
 subtitle: 做人最紧要开心~
-welcome_message: 玩玩最新的<a href="https://saltyleung.github.io/products/" target="_blank">好咸在线随机数生成器</a>试一下？~
+welcome_message: 玩玩最新的<a href="/randomCreate/RandomCreate.html" target="_blank">好咸在线随机数生成器</a>试一下？~
 description: 这里是好咸的地盘 (@VerySalty)，欢迎随便践踏。
-creator: <a href="http://baidu.com">@onevcat</a>
+creator: <a href="http://baidu.com">@VerySalty</a>
 
 url: "http://baidu.com"
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: 
+cover_color:
 
 blog_button:
     title: 搞事
@@ -30,17 +30,17 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: onevcat
+    disqus: saltyleung
     # duoshuo:
 # Social
 social:
     weibo: verysalty
     github: SaltyLeung
-    twitter: 
-    gplus: 
+    twitter:
+    gplus:
     mail: 498546830@qq.com
 
 # Google Analytics
 ga:
-    id: 
-    host: 
+    id:
+    host:
